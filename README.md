@@ -30,3 +30,9 @@ Se ha seguido el ejemplo de Render de [express-hello-world](https://github.com/r
 <ol>
 
 <br>
+
+![](assets/20231015_173957_result.png)
+
+<br>
+
+![](assets/20231015_174047_hellofromrender.png)
