@@ -17,7 +17,8 @@
 ### Parte opcional - 1
 
 <ol>
-    <li>✅ Desplegar la página en un dyno gratuito de heroku, usando despliegue por git.</li>
+    <li>❌ Desplegar la página en un dyno gratuito de heroku, usando despliegue por git. (ya no hay dynos gratuitos)</li>
+    <li>✅ Desplegar la página en Render de forma manual.</li>
 </ol>
 
 <br>
