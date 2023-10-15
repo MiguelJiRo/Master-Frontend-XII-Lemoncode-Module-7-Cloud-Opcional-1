@@ -21,4 +21,6 @@
     <li>✅ Desplegar la página en Render de forma manual.</li>
 </ol>
 
+Se ha seguido el ejemplo de Render de [express-hello-world](https://github.com/render-examples/express-hello-world)
+
 <br>
